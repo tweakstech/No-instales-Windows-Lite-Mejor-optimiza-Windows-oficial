@@ -11,17 +11,23 @@ Muchos usuarios caen en la trampa de usar Windows Lite debido a la desinformaci�
 
 No confíes en versiones como Windows Lite, incluso si te lo recomienda tu mejor amigo o un profesional. Siempre es mejor usar las herramientas adecuadas para hacer las modificaciones que realmente necesitas.
 
-## Alternativa recomendada
+## Alternativa recomendada  
 
-Si buscas un sistema ligero y funcional, es mejor instalar versiones oficiales de Windows:
+Si buscas un sistema ligero y funcional, es mejor instalar versiones oficiales de Windows:  
 
-- **Windows Home** si no necesitas funciones avanzadas. Suele ser la opción más barata, ya que las licencias son más económicas que las de Windows Pro y LTSC.
-- **Windows Pro** si requieres características empresariales y es recomendada para quienes necesitan compatibilidad con juegos y aplicaciones, ya que muchas de estas son más compatibles con esta versión y son parte de los requisitos del sistema.
-- **Windows LTSC** solo si realmente necesitas estabilidad sin actualizaciones frecuentes. Aunque muchas personas recomiendan LTSC, no mencionan que sus licencias son más caras porque están diseñadas para empresas.
+- **Windows Home** si no necesitas funciones avanzadas. Suele ser la opción más barata, ya que las licencias son más económicas que las de Windows Pro y LTSC.  
+- **Windows Pro** si requieres características empresariales y es recomendada para quienes necesitan compatibilidad con juegos y aplicaciones, ya que muchas de estas son más compatibles con esta versión y son parte de los requisitos del sistema.  
+- **Windows LTSC** solo si realmente necesitas estabilidad sin actualizaciones frecuentes. Aunque muchas personas recomiendan LTSC, no mencionan que sus licencias son más caras porque están diseñadas para empresas.  
 
-Muchos también recomiendan usar Linux en PCs con pocos recursos y lo comparan con las versiones Lite de Windows, pero las versiones actuales de Linux requieren más recursos que versiones anteriores, por lo que no es cierto que funcione mejor en todos los casos. Además, para usar ciertas aplicaciones o juegos, es necesario instalar versiones específicas de Linux y configurar paquetes adicionales, lo que hace que el sistema sea más difícil de usar y crea problemas de compatibilidad, empeorando la experiencia del usuario. Linux no está diseñado para optimizar el rendimiento en este tipo de equipos, sino para ofrecer mayor privacidad.
+Muchos también recomiendan usar Linux en PCs con pocos recursos y lo comparan con las versiones Lite de Windows. Sin embargo, las versiones actuales de Linux requieren más recursos que en el pasado, por lo que no siempre funcionarán mejor. Además, para usar ciertas aplicaciones o juegos, es necesario instalar versiones específicas de Linux y configurar paquetes adicionales, lo que complica su uso y puede generar problemas de compatibilidad. Linux no está optimizado específicamente para mejorar el rendimiento en equipos limitados, sino que está más orientado a la privacidad y la personalización.  
 
-Además, debes tener en cuenta que las versiones Lite de Windows se convierten en ilegales al desactivar demasiadas características, ya que esto va en contra de los términos y condiciones de Microsoft. Al usar una versión Lite, estás utilizando un sistema operativo modificado de manera no oficial. En cambio, modificar una versión oficial de Windows, como personalizarla sin eliminar funciones esenciales, es considerado como personalización, y se mantiene dentro de los límites legales, ya que no estás quitando características de forma congelada ni alterando su funcionamiento básico.
+Si tienes un PC con pocos recursos y aún quieres probar Linux, es mejor optar por entornos de escritorio ligeros:  
+
+- **Lumina o LXDE** son ideales para equipos muy limitados, ya que consumen pocos recursos.  
+- **XFCE** es una mejor opción si tu PC es un poco más potente, ya que ofrece un buen equilibrio entre rendimiento y funcionalidad.  
+- **Loc-OS** es una distro recomendada para hardware antiguo, ya que está optimizada para consumir menos recursos.  
+
+Por otro lado, es importante recordar que las versiones Lite de Windows pueden volverse ilegales si desactivan demasiadas funciones esenciales, ya que esto va en contra de los términos y condiciones de Microsoft. Modificar una versión oficial de Windows para personalizarla sin eliminar características críticas sigue siendo legal, pero alterar su funcionamiento básico o congelar funciones esenciales puede traer problemas de compatibilidad y legalidad.
 
 ## Pasos para optimizar Windows
 
