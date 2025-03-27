@@ -23,9 +23,13 @@ Muchos también recomiendan usar Linux en PCs con pocos recursos y lo comparan c
 
 Si tienes un PC con pocos recursos y aún quieres probar Linux, es mejor optar por entornos de escritorio ligeros:  
 
-- **Lumina o LXDE** son ideales para equipos muy limitados, ya que consumen pocos recursos.  
-- **XFCE** es una mejor opción si tu PC es un poco más potente, ya que ofrece un buen equilibrio entre rendimiento y funcionalidad.  
-- **Loc-OS** es una distro recomendada para hardware antiguo, ya que está optimizada para consumir menos recursos.  
+### Entornos de Escritorio  
+- **[Lumina](https://lumina-desktop.org/)** es ideal para equipos muy limitados, ya que consume pocos recursos.  
+- **[LXDE](https://lxde.org/)** también es una excelente opción para PCs con hardware modesto.  
+- **[XFCE](https://xfce.org/)** es una mejor opción si tu PC es un poco más potente, ya que ofrece un buen equilibrio entre rendimiento y funcionalidad.  
+
+### Distribuciones  
+- **[Loc-OS](https://loc-os.com/)** es una distro recomendada para hardware antiguo, ya que está optimizada para consumir menos recursos.  
 
 Por otro lado, es importante recordar que las versiones Lite de Windows pueden volverse ilegales si desactivan demasiadas funciones esenciales, ya que esto va en contra de los términos y condiciones de Microsoft. Modificar una versión oficial de Windows para personalizarla sin eliminar características críticas sigue siendo legal, pero alterar su funcionamiento básico o congelar funciones esenciales puede traer problemas de compatibilidad y legalidad.
 
